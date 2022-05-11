@@ -1,0 +1,29 @@
+.p6{
+    height: 500px;
+}
+
+.imgp6{
+    background-image: url(p6image.png);
+    background-size: 550px;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.button-p6{
+    background-color: #0e81d2;
+    transition: 0.3s;
+    border-radius: 10px;
+} 
+
+.button-p6:hover{
+    background-color: #1f1f7a;
+}
+
+.divimgp6{
+    background-color:#0a599e ;
+}
+
+body{
+    font-family: 'Mulish', sans-serif;
+}

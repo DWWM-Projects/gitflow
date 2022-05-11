@@ -1,0 +1,12 @@
+.learngrowthmarketing{
+    background-image: url(learngrowthmarketing.png);
+    background-size: cover;
+    height: 400px;
+}
+.p5text{
+    font-size: 25px;
+}
+
+body{
+    font-family: 'Mulish', sans-serif;
+}
