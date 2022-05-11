@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    font-family: 'Mulish', sans-serif;
+    overflow-x: hidden;
+}
+
+#page9{
+    background-color: rgb(244, 246, 249);
+}
+
+#page9 .flex1{
+    display: flex;
+}
+
+#page9 .li1{
+    list-style-type: none;
+}
+
+#page9 .li2{
+    list-style-type: none;
+}
+
+#page9 .a9{
+    text-decoration: none;
+    color: black;
+}
+
+#page9 span{
+    font-weight: 500;
+}
+
+#page9 .line{
+    line-height: 40px;
+}
+
+#page9 h2{
+    margin-left: 5%;
+    padding-bottom: 2%;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+#page9 .paddiv{
+    padding: 5%;
+}
+
+#page10 .paddiv{
+    padding: 5%;
+}
+
+#page10 .h2p10{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+#page10 img{
+    width: 130px;
+    height: 130px;
+    padding: 10%;
+}
+
+#page10 .google {
+    background-color: #fff;
+    width: 170px;
+    height: 170px;
+    border-radius: 20px;
+    -webkit-box-shadow: -1px 7px 14px -6px #000000; 
+    box-shadow: -1px 7px 14px -6px #000000;
+}
+
+#page10 .google:hover{
+    background: #fff;
+    -webkit-box-shadow: 0px 5px 17px -3px #000000; 
+    box-shadow: 0px 5px 17px -3px #000000;
+}
+
+#page10 .twitter{
+    background-color: #fff;
+    width: 170px;
+    height: 170px;
+    border-radius: 20px;
+    -webkit-box-shadow: -1px 7px 14px -6px #000000; 
+    box-shadow: -1px 7px 14px -6px #000000;
+}
+
+#page10 .twitter:hover{
+    background: #fff;
+    -webkit-box-shadow: 0px 5px 17px -3px #000000; 
+    box-shadow: 0px 5px 17px -3px #000000;
+}
+
+#page10 .mail{
+    background-color: #fff;
+    width: 170px;
+    height: 170px;
+    border-radius: 20px;
+    -webkit-box-shadow: -1px 7px 14px -6px #000000; 
+    box-shadow: -1px 7px 14px -6px #000000;
+}
+
+#page10 .mail:hover{
+    background: #fff;
+    -webkit-box-shadow: 0px 5px 17px -3px #000000; 
+    box-shadow: 0px 5px 17px -3px #000000;
+}
+
+#page10 .insta{
+    background-color: #fff;
+    width: 170px;
+    height: 170px;
+    border-radius: 20px;
+    -webkit-box-shadow: -1px 7px 14px -6px #000000; 
+    box-shadow: -1px 7px 14px -6px #000000;
+}
+
+#page10 .insta:hover{
+    background: #fff;
+    -webkit-box-shadow: 0px 5px 17px -3px #000000; 
+    box-shadow: 0px 5px 17px -3px #000000;
+}
+
+#page10 .fusebox{
+    background-color: #fff;
+    width: 170px;
+    height: 170px;
+    border-radius: 20px;
+    -webkit-box-shadow: -1px 7px 14px -6px #000000; 
+    box-shadow: -1px 7px 14px -6px #000000;
+}
+
+#page10 .fusebox:hover{
+    background: #fff;
+    -webkit-box-shadow: 0px 5px 17px -3px #000000; 
+    box-shadow: 0px 5px 17px -3px #000000;
+}
+
+#page10 .convert{
+    background-color: #fff;
+    width: 170px;
+    height: 170px;
+    border-radius: 20px;
+    -webkit-box-shadow: -1px 7px 14px -6px #000000; 
+    box-shadow: -1px 7px 14px -6px #000000;
+}
+
+#page10 .convert:hover{
+    background: #fff;
+    -webkit-box-shadow: 0px 5px 17px -3px #000000; 
+    box-shadow: 0px 5px 17px -3px #000000;
+}
+
+#page10 .head{
+    background-color: #fff;
+    width: 170px;
+    height: 170px;
+    border-radius: 20px;
+    -webkit-box-shadow: -1px 7px 14px -6px #000000; 
+    box-shadow: -1px 7px 14px -6px #000000;
+} 
+
+#page10 .head:hover{
+    background: #fff;
+    -webkit-box-shadow: 0px 5px 17px -3px #000000; 
+    box-shadow: 0px 5px 17px -3px #000000;
+    transition: 5s;
+}
+
+#page10 a{
+    text-decoration: none;
+    color: #000;
+}
+
+#page10 .sizea{
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: 700;
+    transition: 2s;
+}
+
+#page10 .sizea:hover{
+    color: rgb(77, 202, 244);
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#page11{
+    background-color: rgb(244, 246, 249);
+}
+
+#page11 .paddiv{
+    padding: 5%;
+}
+
+#page11 .h1p11{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#page11 .txt1 {
+    background-color: rgb(166, 235, 166);
+    padding: 2%;
+    border-radius: 20px;
+}
+
+#page11 .txt2 {
+    background-color: rgb(255, 255, 255);
+    padding: 2%;
+    border-radius: 20px;
+}
+
