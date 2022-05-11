@@ -1,0 +1,10 @@
+.p6{
+    height: 500px;
+}
+
+
+.imgp6{
+    background-image: url(p6image.png);
+    background-size: cover;
+    height: 700px;
+}
