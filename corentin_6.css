@@ -8,3 +8,12 @@
     background-size: cover;
     height: 700px;
 }
+
+.button-p6{
+    background-color: rgb(17, 170, 221);
+    transition: 0.3s;
+} 
+
+.button-p6:hover{
+    background-color: #1f1f7a;
+}
