@@ -1,0 +1,178 @@
+body {
+    background-color: #F9FCFF;
+    font-family: 'Mulish', sans-serif;
+}
+
+#page-3 {
+    margin: 50px auto 0 auto;
+    width: 80%;
+}
+
+#page-3 .row .col-sm-6 .card {
+    border: 0;
+    padding: 30px;
+}
+
+#isyourwebsite {
+    color: #233150;
+    font-size: 32px;
+    font-weight: bold;
+    width: 500px;
+}
+
+#isyourwebsite span {
+    border-bottom: 2px solid #0E81D2;
+}
+
+#whenyourproduct {
+    color: #723F42;
+    font-size: 17px;
+    margin-top: 20px;
+    width: 530px;
+}
+
+#episode1, #encart {
+    box-shadow: 0px 0px 0px 6px rgba(157,159,161,0.06);
+    border-radius: 7px;
+}
+
+#episode1 {
+    background-color: #fff;
+    height: auto;
+    margin-left: 50px;
+    padding: 30px;
+    width: 600px;
+}
+
+#encart {
+    background-color: #F2F7F9;
+    padding: 25px;
+    margin-left: -70px;
+}
+
+.fleche {
+    margin-right: 120px;
+}
+
+#image1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#svg {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.logo {
+    filter: drop-shadow(1px 2px 4px rgba(0,0,0,.1));
+    margin: 0 30px;
+    width: 50px;
+}
+
+.space {
+    margin-top: 130px;
+}
+
+#div-create {
+    margin-top: 50px;
+}
+
+#create {
+    color: #000;
+    font-weight: bold;
+}
+
+footer {
+    color: #fff;
+}
+
+#footer-head {
+    background-color: #0A599E;
+    background-image: url('footer.svg');
+    height: 520px;
+    width: 100%;
+}
+
+#footer-foot {
+    background-color: #233150;
+    height: 409px;
+}
+
+#footer-head h2 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 35px;
+    padding-top: 50px;
+    line-height: 1.4em;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+#footer-head p {
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    width: 570px;
+}
+
+#getstarted {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: rgba(0,0,0,0);
+    border-style: solid;
+    border-radius: 6px 6px 6px 6px;
+    height: 40px;
+    background-color:#0A599E;
+    border: 3px solid #fff;
+    margin: 20px auto 0 auto;
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+}
+
+#div-getstarted a {
+    text-decoration: none;
+    color: #fff;
+    padding: 15px 30px;
+}
+
+#div-getstarted a:hover {
+    background-color: #fff;
+    color: #1169A6;
+}
+
+#getstarted:hover {
+    background-color: #fff;
+    transition: 0.5s;
+}
+
+#div-getstarted {
+    margin: 80px auto 0 auto;
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+#footer-head #informations {
+    margin: auto;
+    text-align: center;
+    margin: 30px 0 0 700px;
+    width: 35%;
+    font-size: 12px;
+}
+
+#footer-foot {border: 1px solid #ff00ff;
+    margin: auto;
+    width: 100%;
+}
+
+#footer-foot .li-footer {
+    width: 250px;
+}
+
+.li-footer div {
+    margin: auto;
+    width: 100%;
+}
